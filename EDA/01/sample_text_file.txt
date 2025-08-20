@@ -1,7 +1,0 @@
-Name	UCL	WorldCup
-Messi	4	1
-Ronaldo	5	0
-Maldini	5	0
-Xavi	4	1
-Zico	0	0
-R9	0	2
